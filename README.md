@@ -1,6 +1,6 @@
 # database_taxi_provider
 
-The project is dedicated to the creation of database and management system for provider. For more details watch `db_design.pdf`.
+The project is dedicated to the creation of database and management system for provider. For more details watch `db_design.pdf`. To watch the scheme of our database go [here](https://lucid.app/lucidchart/7de51fea-151a-4ab6-afbe-9768e844f2b6/view?page=0_0#)
 
 1. **Introduction:** The text introduces the project, which is to create an online taxi providing company management system. This system will allow various stakeholders, including the network owner, taxi drivers, service personnel, and investors, to manage the enterprise and improve management processes.
 
